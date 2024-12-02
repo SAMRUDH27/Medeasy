@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "536990694664",
+    "firebase_url": "https://flutter-update-101ff-default-rtdb.firebaseio.com",
+    "project_id": "flutter-update-101ff",
+    "storage_bucket": "flutter-update-101ff.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:536990694664:android:0bf8264a6786a4ee9880bd",
+        "android_client_info": {
+          "package_name": "com.example.medeasy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "536990694664-okrtmabit778fq7buohebtgprdsfa9rt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB11GWEpDCjf3aSfe5II9P3NUx-I50MQPM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "536990694664-okrtmabit778fq7buohebtgprdsfa9rt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
